@@ -1,0 +1,43 @@
+ body{
+        background-color:bisque
+    }
+    h1{
+        color: blue;
+        text-decoration: underline;
+
+    }
+    h2{
+        color:indianred;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    }
+    p{
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        color: indianred;
+        font-size: medium;
+    }
+    h3{
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        color:blue; 
+
+    }
+    span{
+        font-style: italic;
+        color: indianred;
+    }
+    #secondp{
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        color:blue;
+        font-size: medium;
+    }
+    li{
+        color: indianred;
+        font-style: oblique;
+    }
+    #move{
+        position:fixed;
+        background-color: rgb(34, 203, 209);
+        border: solid;
+    }
+    title{
+        position: absolute;
+    }
